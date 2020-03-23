@@ -34,10 +34,22 @@ figcaption {
 
 #details {
   display: block;
+  width: 100%;
+  text-align: center;
 }
 
 #details div {
   float: left;
   background: red;
-  text-align: center;
+  
+}
+
+footer {
+  text-align: center;  
+  width: 100%;
+
+}
+
+#details > div {
+  float: left; 
 }
