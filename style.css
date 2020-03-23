@@ -30,23 +30,9 @@ figcaption {
   text-align: center;
 }
 
-#details {
-  width: 100%;
-  text-align: center;
-}
-
-#details > div {
+#details div {
   float: left;
+  width: 25%;
   background: red;
-
-}
-
-/*footer {
   text-align: center;
-  width: 100%;
-
 }
-
-#details > div {
-  float: left;
-}*/
