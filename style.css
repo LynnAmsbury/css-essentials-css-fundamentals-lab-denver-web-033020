@@ -41,15 +41,15 @@ figcaption {
 #details div {
   float: left;
   background: red;
-  
+
 }
 
 footer {
-  text-align: center;  
+  text-align: center;
   width: 100%;
 
 }
 
 #details > div {
-  float: left; 
+  float: left;
 }
